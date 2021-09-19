@@ -1,4 +1,4 @@
 # Go Boilerplate
 
-A Go API Boilerplate project
+A Go API Boilerplate project. 
 This project used only standard go libraries.
